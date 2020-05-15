@@ -1,1 +1,2 @@
-file 2
+git remote add origin https://github.com/yanyan1990/learngit.git
+git push -u origin master
